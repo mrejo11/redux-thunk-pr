@@ -1,5 +1,18 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "name": "Ms. Viola Bosco PhD",
+      "id": 3
+    },
+    {
+      "name": "Sonia Farrell",
+      "id": 4
+    },
+    {
+      "name": "Reginald Lowe",
+      "id": 5
+    }
+  ],
   "albums": [],
   "photos": []
 }
