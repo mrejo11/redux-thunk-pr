@@ -13,6 +13,52 @@
       "id": 5
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 3
+    },
+    {
+      "userId": 3,
+      "title": "Modern Fresh Ball",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Generic Concrete Gloves",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "title": "Electronic Plastic Ball",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "title": "Handmade Plastic Sausages",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "title": "Refined Metal Salad",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Steel Bike",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "Licensed Soft Soap",
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "title": "Fantastic Steel Salad",
+      "id": 18
+    }
+  ],
   "photos": []
 }
